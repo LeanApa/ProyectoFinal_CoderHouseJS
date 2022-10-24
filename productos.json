@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "tipo":"Remera Nike",
+        "categoria": "remera",
+        "precio":1000,
+        "img":"img/remera-nike.jpg"
+    },
+    {
+        "id":2,
+        "tipo":"Remera Puma",
+        "categoria": "remera",
+        "precio":1500,
+        "img":"img/remera-puma.jpg"
+    },
+    {
+        "id":3,
+        "tipo":"Jean Wrangler",
+        "categoria": "pantalones",
+        "precio":3000,
+        "img":"img/jean-wrangler.jpg"
+    },
+    {
+        "id":4,
+        "tipo":"Campera",
+        "categoria": "camperas",
+        "precio":5600,
+        "img":"img/campera.jpg"
+    },
+    {
+        "id":5,
+        "tipo":"Zapatillas",
+        "categoria": "calzado",
+        "precio":800,
+        "img":"img/zapatillas.jpg"
+    },
+    {
+        "id":6,
+        "tipo":"Crocs",
+        "categoria": "calzado",
+        "precio":5000,
+        "img":"img/crocs.jpg"
+    },
+    {
+        "id":7,
+        "tipo":"Campera Nike",
+        "categoria": "camperas",
+        "precio":9600,
+        "img":"img/campera-nike.jpg"
+    },
+    {
+        "id":8,
+        "tipo":"Campera Puma",
+        "categoria": "camperas",
+        "precio":8000,
+        "img":"img/campera-puma.jpg"
+    },
+    {
+        "id":9,
+        "tipo":"Jean Sweet",
+        "categoria": "pantalones",
+        "precio":4700,
+        "img":"img/jean.jpg"
+    }
+]
